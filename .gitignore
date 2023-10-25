@@ -1,5 +1,6 @@
 output/*
 gmon.out
 .vscode/
+*.exe
 
 !.gitkeep
